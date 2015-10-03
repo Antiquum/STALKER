@@ -3,7 +3,7 @@ STALKER
 
 New and possibly the latest version of this console for use in cybercafes.<br>
 
-Commands are<br>
+Commands :<br>
 
 [+] cmd_getip <host><br>
 [+] cmd_getlink <page><br>
