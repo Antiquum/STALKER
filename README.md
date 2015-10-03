@@ -34,7 +34,7 @@ Also you can use normal commands.<br>
 
 An image : 
 
-![Alt text](http://doddyhackman.webcindario.com/images/stalker.jgp "Screenshot")
+![alt tag](http://doddyhackman.webcindario.com/images/stalker.jgp)
 
 Good Bye
 
