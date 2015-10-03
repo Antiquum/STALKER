@@ -34,6 +34,6 @@ Also you can use normal commands.<br>
 
 An image : 
 
-![image](http://doddyhackman.webcindario.com/images/stalker.jgp)
+![image](http://doddyhackman.webcindario.com/images/stalker.jpg)
 
 Good Bye
