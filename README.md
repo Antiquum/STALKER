@@ -1,4 +1,4 @@
-STALKER
+Project STALKER
 =======
 
 New and possibly the latest version of this console for use in cybercafes.<br>
