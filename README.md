@@ -31,3 +31,11 @@ Commands are<br>
 [+] cmd_exit<br>
 
 Also you can use normal commands.<br>
+
+An image : 
+
+![Alt text](http://doddyhackman.webcindario.com/images/stalker.jgp "Screenshot")
+
+Good Bye
+
+
